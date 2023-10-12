@@ -1,0 +1,46 @@
+.sec-act {
+    width: 100%;
+    height: 600px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.act video {
+    max-width: 900%;
+    height: 300px;
+    margin: 50px;
+}
+
+
+.container .box-stan {
+    width: 100%;
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.img-stan {
+    margin: 50px;
+    
+}
+
+.img-stan img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.stan-lee {
+    justify-content: center;
+    text-align: center;
+    margin: 100px;
+}
+
+.stan-lee p{
+    font-size: 18px;
+}

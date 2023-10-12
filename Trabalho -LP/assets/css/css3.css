@@ -1,0 +1,25 @@
+.box-sobre .sobre{
+    height: 600px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-sobre{
+    width: 50%;
+    
+    margin-left: 60px;
+    justify-content: center;
+    align-items: center;
+}
+.sobre-img img{
+    width: 80%;
+    margin: 50px;
+    border: 1px solid rgba(0, 0, 0,0.5);
+}
+
+.text-sobre p{  
+    font-size: 20px;
+}
